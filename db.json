@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "theethanerivers@gmail.com",
+      "password": "$2a$10$hashedpassword",
+      "name": "Thane",
+      "balance": 250000000,
+      "walletId": "7963064085"
+    }
+  ],
+  "transactions": []
+}
